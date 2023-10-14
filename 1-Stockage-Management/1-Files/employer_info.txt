@@ -1,0 +1,10 @@
+id;name;age;department;computer;software
+165;Marouan;25;IT Department;Dell XPS 13;WindowsPro 10.1
+149;Ismail;30;HR Department;HP Pavilion;WindowsPro 10.1
+102;Sarah;28;Finance Department;Lenovo ThinkPad;Microsoft Office 365
+217;Alex;35;IT Department;Apple MacBook Pro;WindowsPro 10.1
+305;Lara;22;Marketing Department;Acer Aspire;Adobe Photoshop 2022
+410;Adam;40;Sales Department;Dell XPS 13;WindowsHome 8.1
+528;Nora;33;HR Department;Lenovo ThinkPad;AvastPro 2022
+633;James;29;IT Department;Dell XPS 13;WindowsPro 10.1
+749;Eva;27;Finance Department;HP Pavilion;Microsoft Office 365
